@@ -1,0 +1,12 @@
+Desa,Karang Lewas,Baturaden,Sumbang,Kembaran,Sokaraja,Patikraja,Kaliori,Kedungwringin,Randegan,Susukan,Karang Tengah
+Karang Lewas,0,5,8,6,7,10,12,15,20,25,30
+Baturaden,5,0,3,4,6,9,10,12,18,22,28
+Sumbang,8,3,0,2,5,7,8,10,15,19,25
+Kembaran,6,4,2,0,3,5,6,8,12,17,22
+Sokaraja,7,6,5,3,0,4,5,7,10,15,20
+Patikraja,10,9,7,5,4,0,3,5,8,12,18
+Kaliori,12,10,8,6,5,3,0,4,6,10,15
+Kedungwringin,15,12,10,8,7,5,4,0,3,7,12
+Randegan,20,18,15,12,10,8,6,3,0,5,10
+Karang Tengah,30,28,25,22,20,18,15,12,10,6,0
+Susukan,25,22,19,17,15,12,10,7,5,0,6
